@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Home</title>
+    <link>https://ranga6897.github.io/web/post/</link>
+    <description>Recent content in Projects on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://ranga6897.github.io/web/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Effect of COVID-19.</title>
+      <link>https://ranga6897.github.io/web/post/project-4/</link>
+      <pubDate>Mon, 10 Aug 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://ranga6897.github.io/web/post/project-4/</guid>
+      <description>A Survey was conducted to collect the DataSet. PreProcessing:   Link to Github</description>
+    </item>
+    
+    <item>
+      <title>Text Extractor</title>
+      <link>https://ranga6897.github.io/web/post/project-3/</link>
+      <pubDate>Mon, 15 Jun 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://ranga6897.github.io/web/post/project-3/</guid>
+      <description>Implementing a basic OCR to get parameters from Diagnostic Reports images. USing Pytessrecart to get the text.  Link to github</description>
+    </item>
+    
+    <item>
+      <title>Price Scrapper</title>
+      <link>https://ranga6897.github.io/web/post/project-2/</link>
+      <pubDate>Mon, 25 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://ranga6897.github.io/web/post/project-2/</guid>
+      <description>Built using a Basic using basic tools as BeautifulSoup. I Never buit a scrapper before, I learned and built in One Single day.  Link to github</description>
+    </item>
+    
+    <item>
+      <title>Rice Price Estimator</title>
+      <link>https://ranga6897.github.io/web/post/project-1/</link>
+      <pubDate>Mon, 25 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://ranga6897.github.io/web/post/project-1/</guid>
+      <description>The DataSet used is the project is RiceFarms Dataset.Description Performed Uni-Variate and Bi-variate Analysis wrt to Price,Location. Engineered Features that gives insights about the land. a  Link to github</description>
+    </item>
+    
+  </channel>
+</rss>
